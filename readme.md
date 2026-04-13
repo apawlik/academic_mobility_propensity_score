@@ -1,3 +1,5 @@
+[![Runs on Jupyter4NFDI](https://github.com/apawlik/academic_mobility_propensity_score/actions/workflows/jupyter4nfdi_ready_check.yml/badge.svg)](https://github.com/apawlik/academic_mobility_propensity_score/actions/workflows/jupyter4nfdi_ready_check.yml)
+
 # Applying Propensity Score Matching in R
 
 ## Description
